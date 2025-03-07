@@ -1,0 +1,1728 @@
+/* ||| GENERAL STYLES - Basic text stylings for the IAPP Resource Center. - GENERAL STYLES  ||| */
+
+/* Centered Text */
+.text-centered {
+    text-align: center !important;
+}
+
+/* Left Aligned Text */
+.text-left {
+    text-align: left !important;
+}
+
+/* Italicized Text */
+.itals {
+    font-style: italic;
+}
+
+
+/* ||| MARGINS - DESCRIPTION stylings for the IAPP Resource Center. - NAME ||| */
+
+/* Auto-margin application, to allow for items with < 100% width to remain centered. */
+
+
+.margin-auto {
+    margin: auto;
+}
+
+/* Left and right auto-margin application */
+.marg-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* Negative margin top application ranging from 0em to -6em  */
+.nmt0 {
+    margin-top: 0em !important;
+}
+
+.nmt01 {
+    margin-top: -0.1em !important;
+}
+
+.nmt02 {
+    margin-top: -0.2em !important;
+}
+
+.nmt03 {
+    margin-top: -0.3em !important;
+}
+
+.nmt04 {
+    margin-top: -0.4em !important;
+}
+
+.nmt05 {
+    margin-top: -0.5em !important;
+}
+
+.nmt06 {
+    margin-top: -0.6em !important;
+}
+
+.nmt07 {
+    margin-top: -0.7em !important;
+}
+
+.nmt08 {
+    margin-top: -0.8em !important;
+}
+
+.nmt09 {
+    margin-top: -0.9em !important;
+}
+
+.nmt1 {
+    margin-top: -1em !important;
+}
+
+.nmt11 {
+    margin-top: -1.1em !important;
+}
+
+.nmt12 {
+    margin-top: -1.2em !important;
+}
+
+.nmt13 {
+    margin-top: -1.3em !important;
+}
+
+.nmt14 {
+    margin-top: -1.4em !important;
+}
+
+.nmt15 {
+    margin-top: -1.5em !important;
+}
+
+.nmt16 {
+    margin-top: -1.6em !important;
+}
+
+.nmt17 {
+    margin-top: -1.7em !important;
+}
+
+.nmt18 {
+    margin-top: -1.8em !important;
+}
+
+.nmt19 {
+    margin-top: -1.9em !important;
+}
+
+.nmt2 {
+    margin-top: -2em !important;
+}
+
+.nmt21 {
+    margin-top: -2.1em !important;
+}
+
+.nmt22 {
+    margin-top: -2.2em !important;
+}
+
+.nmt23 {
+    margin-top: -2.3em !important;
+}
+
+.nmt24 {
+    margin-top: -2.4em !important;
+}
+
+.nmt25 {
+    margin-top: -2.5em !important;
+}
+
+.nmt26 {
+    margin-top: -2.6em !important;
+}
+
+.nmt27 {
+    margin-top: -2.7em !important;
+}
+
+.nmt28 {
+    margin-top: -2.8em !important;
+}
+
+.nmt29 {
+    margin-top: -2.9em !important;
+}
+
+.nmt3 {
+    margin-top: -3em !important;
+}
+
+.nmt31 {
+    margin-top: -3.1em !important;
+}
+
+.nmt32 {
+    margin-top: -3.2em !important;
+}
+
+.nmt33 {
+    margin-top: -3.3em !important;
+}
+
+.nmt34 {
+    margin-top: -3.4em !important;
+}
+
+.nmt35 {
+    margin-top: -3.5em !important;
+}
+
+.nmt36 {
+    margin-top: -3.6em !important;
+}
+
+.nmt37 {
+    margin-top: -3.7em !important;
+}
+
+.nmt38 {
+    margin-top: -3.8em !important;
+}
+
+.nmt39 {
+    margin-top: -3.9em !important;
+}
+
+.nmt4 {
+    margin-top: -4em !important;
+}
+
+.nmt41 {
+    margin-top: -4.1em !important;
+}
+
+.nmt42 {
+    margin-top: -4.2em !important;
+}
+
+.nmt43 {
+    margin-top: -4.3em !important;
+}
+
+.nmt44 {
+    margin-top: -4.4em !important;
+}
+
+.nmt45 {
+    margin-top: -4.5em !important;
+}
+
+.nmt46 {
+    margin-top: -4.6em !important;
+}
+
+.nmt47 {
+    margin-top: -4.7em !important;
+}
+
+.nmt48 {
+    margin-top: -4.8em !important;
+}
+
+.nmt49 {
+    margin-top: -4.9em !important;
+}
+
+.nmt5 {
+    margin-top: -5em !important;
+}
+
+.nmt51 {
+    margin-top: -5.1em !important;
+}
+
+.nmt52 {
+    margin-top: -5.2em !important;
+}
+
+.nmt53 {
+    margin-top: -5.3em !important;
+}
+
+.nmt54 {
+    margin-top: -5.4em !important;
+}
+
+.nmt55 {
+    margin-top: -5.5em !important;
+}
+
+.nmt56 {
+    margin-top: -5.6em !important;
+}
+
+.nmt57 {
+    margin-top: -5.7em !important;
+}
+
+.nmt58 {
+    margin-top: -5.8em !important;
+}
+
+.nmt59 {
+    margin-top: -5.9em !important;
+}
+
+.nmt6 {
+    margin-top: -6em !important;
+}
+
+/* Negative margin bottom application ranging from 0em to -6em  */
+
+.nmb0 {
+    margin-bottom: 0em !important;
+}
+
+.nmb01 {
+    margin-bottom: -0.1em !important;
+}
+
+.nmb02 {
+    margin-bottom: -0.2em !important;
+}
+
+.nmb03 {
+    margin-bottom: -0.3em !important;
+}
+
+.nmb04 {
+    margin-bottom: -0.4em !important;
+}
+
+.nmb05 {
+    margin-bottom: -0.5em !important;
+}
+
+.nmb06 {
+    margin-bottom: -0.6em !important;
+}
+
+.nmb07 {
+    margin-bottom: -0.7em !important;
+}
+
+.nmb08 {
+    margin-bottom: -0.8em !important;
+}
+
+.nmb09 {
+    margin-bottom: -0.9em !important;
+}
+
+.nmb1 {
+    margin-bottom: -1em !important;
+}
+
+.nmb11 {
+    margin-bottom: -1.1em !important;
+}
+
+.nmb12 {
+    margin-bottom: -1.2em !important;
+}
+
+.nmb13 {
+    margin-bottom: -1.3em !important;
+}
+
+.nmb14 {
+    margin-bottom: -1.4em !important;
+}
+
+.nmb15 {
+    margin-bottom: -1.5em !important;
+}
+
+.nmb16 {
+    margin-bottom: -1.6em !important;
+}
+
+.nmb17 {
+    margin-bottom: -1.7em !important;
+}
+
+.nmb18 {
+    margin-bottom: -1.8em !important;
+}
+
+.nmb19 {
+    margin-bottom: -1.9em !important;
+}
+
+.nmb2 {
+    margin-bottom: -2em !important;
+}
+
+.nmb21 {
+    margin-bottom: -2.1em !important;
+}
+
+.nmb22 {
+    margin-bottom: -2.2em !important;
+}
+
+.nmb23 {
+    margin-bottom: -2.3em !important;
+}
+
+.nmb24 {
+    margin-bottom: -2.4em !important;
+}
+
+.nmb25 {
+    margin-bottom: -2.5em !important;
+}
+
+.nmb26 {
+    margin-bottom: -2.6em !important;
+}
+
+.nmb27 {
+    margin-bottom: -2.7em !important;
+}
+
+.nmb28 {
+    margin-bottom: -2.8em !important;
+}
+
+.nmb29 {
+    margin-bottom: -2.9em !important;
+}
+
+.nmb3 {
+    margin-bottom: -3em !important;
+}
+
+.nmb31 {
+    margin-bottom: -3.1em !important;
+}
+
+.nmb32 {
+    margin-bottom: -3.2em !important;
+}
+
+.nmb33 {
+    margin-bottom: -3.3em !important;
+}
+
+.nmb34 {
+    margin-bottom: -3.4em !important;
+}
+
+.nmb35 {
+    margin-bottom: -3.5em !important;
+}
+
+.nmb36 {
+    margin-bottom: -3.6em !important;
+}
+
+.nmb37 {
+    margin-bottom: -3.7em !important;
+}
+
+.nmb38 {
+    margin-bottom: -3.8em !important;
+}
+
+.nmb39 {
+    margin-bottom: -3.9em !important;
+}
+
+.nmb4 {
+    margin-bottom: -4em !important;
+}
+
+.nmb41 {
+    margin-bottom: -4.1em !important;
+}
+
+.nmb42 {
+    margin-bottom: -4.2em !important;
+}
+
+.nmb43 {
+    margin-bottom: -4.3em !important;
+}
+
+.nmb44 {
+    margin-bottom: -4.4em !important;
+}
+
+.nmb45 {
+    margin-bottom: -4.5em !important;
+}
+
+.nmb46 {
+    margin-bottom: -4.6em !important;
+}
+
+.nmb47 {
+    margin-bottom: -4.7em !important;
+}
+
+.nmb48 {
+    margin-bottom: -4.8em !important;
+}
+
+.nmb49 {
+    margin-bottom: -4.9em !important;
+}
+
+.nmb5 {
+    margin-bottom: -5em !important;
+}
+
+.nmb51 {
+    margin-bottom: -5.1em !important;
+}
+
+.nmb52 {
+    margin-bottom: -5.2em !important;
+}
+
+.nmb53 {
+    margin-bottom: -5.3em !important;
+}
+
+.nmb54 {
+    margin-bottom: -5.4em !important;
+}
+
+.nmb55 {
+    margin-bottom: -5.5em !important;
+}
+
+.nmb56 {
+    margin-bottom: -5.6em !important;
+}
+
+.nmb57 {
+    margin-bottom: -5.7em !important;
+}
+
+.nmb58 {
+    margin-bottom: -5.8em !important;
+}
+
+.nmb59 {
+    margin-bottom: -5.9em !important;
+}
+
+.nmb6 {
+    margin-bottom: -6em !important;
+}
+
+/* Positive margin top application ranging from 0em to 6em  */
+
+.mt0 {
+    margin-top: 0em !important;
+}
+
+.mt01 {
+    margin-top: 0.1em !important;
+}
+
+.mt02 {
+    margin-top: 0.2em !important;
+}
+
+.mt03 {
+    margin-top: 0.3em !important;
+}
+
+.mt04 {
+    margin-top: 0.4em !important;
+}
+
+.mt05 {
+    margin-top: 0.5em !important;
+}
+
+.mt06 {
+    margin-top: 0.6em !important;
+}
+
+.mt07 {
+    margin-top: 0.7em !important;
+}
+
+.mt08 {
+    margin-top: 0.8em !important;
+}
+
+.mt09 {
+    margin-top: 0.9em !important;
+}
+
+.mt1 {
+    margin-top: 1em !important;
+}
+
+.mt11 {
+    margin-top: 1.1em !important;
+}
+
+.mt12 {
+    margin-top: 1.2em !important;
+}
+
+.mt13 {
+    margin-top: 1.3em !important;
+}
+
+.mt14 {
+    margin-top: 1.4em !important;
+}
+
+.mt15 {
+    margin-top: 1.5em !important;
+}
+
+.mt16 {
+    margin-top: 1.6em !important;
+}
+
+.mt17 {
+    margin-top: 1.7em !important;
+}
+
+.mt18 {
+    margin-top: 1.8em !important;
+}
+
+.mt19 {
+    margin-top: 1.9em !important;
+}
+
+.mt2 {
+    margin-top: 2em !important;
+}
+
+.mt21 {
+    margin-top: 2.1em !important;
+}
+
+.mt22 {
+    margin-top: 2.2em !important;
+}
+
+.mt23 {
+    margin-top: 2.3em !important;
+}
+
+.mt24 {
+    margin-top: 2.4em !important;
+}
+
+.mt25 {
+    margin-top: 2.5em !important;
+}
+
+.mt26 {
+    margin-top: 2.6em !important;
+}
+
+.mt27 {
+    margin-top: 2.7em !important;
+}
+
+.mt28 {
+    margin-top: 2.8em !important;
+}
+
+.mt29 {
+    margin-top: 2.9em !important;
+}
+
+.mt3 {
+    margin-top: 3em !important;
+}
+
+.mt31 {
+    margin-top: 3.1em !important;
+}
+
+.mt32 {
+    margin-top: 3.2em !important;
+}
+
+.mt33 {
+    margin-top: 3.3em !important;
+}
+
+.mt34 {
+    margin-top: 3.4em !important;
+}
+
+.mt35 {
+    margin-top: 3.5em !important;
+}
+
+.mt36 {
+    margin-top: 3.6em !important;
+}
+
+.mt37 {
+    margin-top: 3.7em !important;
+}
+
+.mt38 {
+    margin-top: 3.8em !important;
+}
+
+.mt39 {
+    margin-top: 3.9em !important;
+}
+
+.mt4 {
+    margin-top: 4em !important;
+}
+
+.mt41 {
+    margin-top: 4.1em !important;
+}
+
+.mt42 {
+    margin-top: 4.2em !important;
+}
+
+.mt43 {
+    margin-top: 4.3em !important;
+}
+
+.mt44 {
+    margin-top: 4.4em !important;
+}
+
+.mt45 {
+    margin-top: 4.5em !important;
+}
+
+.mt46 {
+    margin-top: 4.6em !important;
+}
+
+.mt47 {
+    margin-top: 4.7em !important;
+}
+
+.mt48 {
+    margin-top: 4.8em !important;
+}
+
+.mt49 {
+    margin-top: 4.9em !important;
+}
+
+.mt5 {
+    margin-top: 5em !important;
+}
+
+.mt51 {
+    margin-top: 5.1em !important;
+}
+
+.mt52 {
+    margin-top: 5.2em !important;
+}
+
+.mt53 {
+    margin-top: 5.3em !important;
+}
+
+.mt54 {
+    margin-top: 5.4em !important;
+}
+
+.mt55 {
+    margin-top: 5.5em !important;
+}
+
+.mt56 {
+    margin-top: 5.6em !important;
+}
+
+.mt57 {
+    margin-top: 5.7em !important;
+}
+
+.mt58 {
+    margin-top: 5.8em !important;
+}
+
+.mt59 {
+    margin-top: 5.9em !important;
+}
+
+.mt6 {
+    margin-top: 6em !important;
+}
+
+/* Positive margin bottom application ranging from 0em to 6em  */
+
+.mb0 {
+    margin-bottom: 0em !important;
+}
+
+.mb01 {
+    margin-bottom: 0.1em !important;
+}
+
+.mb02 {
+    margin-bottom: 0.2em !important;
+}
+
+.mb03 {
+    margin-bottom: 0.3em !important;
+}
+
+.mb04 {
+    margin-bottom: 0.4em !important;
+}
+
+.mb05 {
+    margin-bottom: 0.5em !important;
+}
+
+.mb06 {
+    margin-top: 0.6em !important;
+}
+
+.mb07 {
+    margin-bottom: 0.7em !important;
+}
+
+.mb08 {
+    margin-bottom: 0.8em !important;
+}
+
+.mb09 {
+    margin-bottom: 0.9em !important;
+}
+
+.mb1 {
+    margin-bottom: 1em !important;
+}
+
+.mb11 {
+    margin-bottom: 1.1em !important;
+}
+
+.mb12 {
+    margin-bottom: 1.2em !important;
+}
+
+.mb13 {
+    margin-bottom: 1.3em !important;
+}
+
+.mb14 {
+    margin-bottom: 1.4em !important;
+}
+
+.mb15 {
+    margin-bottom: 1.5em !important;
+}
+
+.mb16 {
+    margin-bottom: 1.6em !important;
+}
+
+.mb17 {
+    margin-bottom: 1.7em !important;
+}
+
+.mb18 {
+    margin-bottom: 1.8em !important;
+}
+
+.mb19 {
+    margin-bottom: 1.9em !important;
+}
+
+.mb2 {
+    margin-bottom: 2em !important;
+}
+
+.mb21 {
+    margin-bottom: 2.1em !important;
+}
+
+.mb22 {
+    margin-bottom: 2.2em !important;
+}
+
+.mb23 {
+    margin-bottom: 2.3em !important;
+}
+
+.mb24 {
+    margin-bottom: 2.4em !important;
+}
+
+.mb25 {
+    margin-bottom: 2.5em !important;
+}
+
+.mb26 {
+    margin-bottom: 2.6em !important;
+}
+
+.mb27 {
+    margin-bottom: 2.7em !important;
+}
+
+.mb28 {
+    margin-bottom: 2.8em !important;
+}
+
+.mb29 {
+    margin-bottom: 2.9em !important;
+}
+
+.mb3 {
+    margin-bottom: 3em !important;
+}
+
+.mb31 {
+    margin-bottom: 3.1em !important;
+}
+
+.mb32 {
+    margin-bottom: 3.2em !important;
+}
+
+.mb33 {
+    margin-bottom: 3.3em !important;
+}
+
+.mb34 {
+    margin-bottom: 3.4em !important;
+}
+
+.mb35 {
+    margin-bottom: 3.5em !important;
+}
+
+.mb36 {
+    margin-bottom: 3.6em !important;
+}
+
+.mb37 {
+    margin-bottom: 3.7em !important;
+}
+
+.mb38 {
+    margin-bottom: 3.8em !important;
+}
+
+.mb39 {
+    margin-bottom: 3.9em !important;
+}
+
+.mbh4 {
+    margin-bottom: 4em !important;
+}
+
+.mb41 {
+    margin-bottom: 4.1em !important;
+}
+
+.mb42 {
+    margin-bottom: 4.2em !important;
+}
+
+.mb43 {
+    margin-bottom: 4.3em !important;
+}
+
+.mb44 {
+    margin-bottom: 4.4em !important;
+}
+
+.mb45 {
+    margin-bottom: 4.5em !important;
+}
+
+.mb46 {
+    margin-bottom: 4.6em !important;
+}
+
+.mb47 {
+    margin-bottom: 4.7em !important;
+}
+
+.mb48 {
+    margin-bottom: 4.8em !important;
+}
+
+.mb49 {
+    margin-bottom: 4.9em !important;
+}
+
+.mb5 {
+    margin-bottom: 5em !important;
+}
+
+.mb51 {
+    margin-bottom: 5.1em !important;
+}
+
+.mb52 {
+    margin-bottom: 5.2em !important;
+}
+
+.mb53 {
+    margin-bottom: 5.3em !important;
+}
+
+.mb54 {
+    margin-bottom: 5.4em !important;
+}
+
+.mb55 {
+    margin-bottom: 5.5em !important;
+}
+
+.mb56 {
+    margin-bottom: 5.6em !important;
+}
+
+.mb57 {
+    margin-bottom: 5.7em !important;
+}
+
+.mb58 {
+    margin-bottom: 5.8em !important;
+}
+
+.mb59 {
+    margin-bottom: 5.9em !important;
+}
+
+.mb6 {
+    margin-bottom: 6em !important;
+}
+
+
+/* ||| PADDING - Padding stylings for the IAPP Resource Center. - PADDING ||| */
+
+
+/* Left padding styles from 5px to 40px, in intervals of 5. */
+
+.lpad5 {
+    padding-left: 5px !important;
+}
+
+.lpad10 {
+    padding-left: 10px !important;
+}
+
+.lpad15 {
+    padding-left: 15px !important;
+}
+
+.lpad20 {
+    padding-left: 20px !important;
+}
+
+.lpad25 {
+    padding-left: 25px !important;
+}
+
+.lpad30 {
+    padding-left: 30px !important;
+}
+
+.lpad35 {
+    padding-left: 35px !important;
+}
+
+.lpad40 {
+    padding-left: 40px !important;
+}
+
+/* Right padding styles from 5px to 40px, in intervals of 5. */
+
+.rpad5 {
+    padding-right: 5px !important;
+}
+
+.rpad6 {
+    padding-right: 6px !important;
+}
+
+.rpad7 {
+    padding-right: 7px !important;
+}
+
+.rpad8 {
+    padding-right: 8px !important;
+}
+
+.rpad9 {
+    padding-right: 9px !important;
+}
+
+
+.rpad10 {
+    padding-right: 10px !important;
+}
+
+.rpad15 {
+    padding-right: 15px !important;
+}
+
+.rpad20 {
+    padding-right: 20px !important;
+}
+
+.rpad25 {
+    padding-right: 25px !important;
+}
+
+.rpad30 {
+    padding-right: 30px !important;
+}
+
+.rpad35 {
+    padding-right: 35px !important;
+}
+
+.rpad40 {
+    padding-right: 40px !important;
+}
+
+/* Top padding styles from 5px to 40px, in intervals of 5. */
+
+.tpad5 {
+    padding-top: 5px !important;
+}
+
+.tpad10 {
+    padding-top: 10px !important;
+}
+
+.tpad15 {
+    padding-top: 15px !important;
+}
+
+.tpad20 {
+    padding-top: 20px !important;
+}
+
+.tpad25 {
+    padding-top: 25px !important;
+}
+
+.tpad30 {
+    padding-top: 30px !important;
+}
+
+.tpad35 {
+    padding-top: 40px !important;
+}
+
+.tpad40 {
+    padding-top: 40px !important;
+}
+
+/* Bottom padding styles from 5px to 40px, in intervals of 5. */
+
+.bpad5 {
+    padding-bottom: 5px !important;
+}
+
+.bpad10 {
+    padding-bottom: 10px !important;
+}
+
+.bpad15 {
+    padding-bottom: 15px !important;
+}
+
+.bpad20 {
+    padding-bottom: 20px !important;
+}
+
+.bpad25 {
+    padding-bottom: 25px !important;
+}
+
+.bpad30 {
+    padding-bottom: 30px !important;
+}
+
+.bpad35 {
+    padding-bottom: 35px !important;
+}
+
+.bpad40 {
+    padding-bottom: 40px !important;
+}
+
+/* Removing decoation such as underlinining from links */
+
+a.no-decoration {
+    text-decoration: none;
+}
+
+/* Applying a darker color to links. */
+
+a.alternate-link.featured-link-dark {
+    color: #336483 !important;
+}
+
+/* Applying a light blue color to links. */
+
+a.alternate-link.featured-link-light {
+    color: #0C7EC0 !important;
+}
+
+/* Applying a white color to links. */
+
+a.alternate-link.white {
+    color: #ffffff !important;
+}
+
+
+
+/* ||| WIDTH - Width stylings for the IAPP Resource Center. - WIDTH ||| */
+
+/* Apply a width between 100% and 10% to any element. */
+
+.width100 {
+    width: 100%
+}
+
+.width90 {
+    width: 90%
+}
+
+.width80 {
+    width: 80%
+}
+
+.width70 {
+    width: 70%
+}
+
+.width60 {
+    width: 60%
+}
+
+.width50 {
+    width: 50%
+}
+
+.width40 {
+    width: 40%
+}
+
+.width30 {
+    width: 30%
+}
+
+.width20 {
+    width: 20%
+}
+
+.width10 {
+    width: 10%
+}
+
+
+/* Apply a width between 100% and 10% to any image class. */
+img.img-full {
+    width: 100%;
+}
+
+img.img-90 {
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-85 {
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-80 {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-75 {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-70 {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-65 {
+    width: 65%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-60 {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-50 {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-40 {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-30 {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-20 {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img-10 {
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* ||| OPACITY - Opacity stylings for the IAPP Resource Center. - OPACITY ||| */
+
+/* Apply opacity between 10% and 90% to any element. (Don't apply for 100% opacity.) */
+.op01 {
+    opacity: 0.1 !important;
+}
+
+.op02 {
+    opacity: 0.2 !important;
+}
+
+.op03 {
+    opacity: 0.3 !important;
+}
+
+.op04 {
+    opacity: 0.4 !important;
+}
+
+.op05 {
+    opacity: 0.5 !important;
+}
+
+.op06 {
+    opacity: 0.6 !important;
+}
+
+.op07 {
+    opacity: 0.7 !important;
+}
+
+.op08 {
+    opacity: 0.8 !important;
+}
+
+.op09 {
+    opacity: 0.9 !important;
+}
+
+
+
+/* ||| FONTS - General font family and size stylings for the IAPP Resource Center. - FONTS ||| */
+
+/* Font size application between 10px and 40px with half-pixel intervals. */
+.fs8 {
+    font-size: 8px !important;
+}
+
+.fs85 {
+    font-size: 8.5px !important;
+}
+
+.fs9 {
+    font-size: 9px !important;
+}
+
+.fs95 {
+    font-size: 9.5px !important;
+}
+
+.fs10 {
+    font-size: 10px !important;
+}
+
+.fs105 {
+    font-size: 10.5px !important;
+}
+
+.fs11 {
+    font-size: 11px !important;
+}
+
+.fs115 {
+    font-size: 11.5px !important;
+}
+
+.fs12 {
+    font-size: 12px !important;
+}
+
+.fs125 {
+    font-size: 12.5px !important;
+}
+
+.fs13 {
+    font-size: 13px !important;
+}
+
+.fs135 {
+    font-size: 13.5px !important;
+}
+
+.fs14 {
+    font-size: 14px !important;
+}
+
+.fs145 {
+    font-size: 14.5px !important;
+}
+
+.fs15 {
+    font-size: 15px !important;
+}
+
+.fs155 {
+    font-size: 15.5px !important;
+}
+
+.fs16 {
+    font-size: 16px !important;
+}
+
+.fs165 {
+    font-size: 16.5px !important;
+}
+
+.fs17 {
+    font-size: 17px !important;
+}
+
+.fs175 {
+    font-size: 17.5px !important;
+}
+
+.fs18 {
+    font-size: 18px !important;
+}
+
+.fs185 {
+    font-size: 18.5px !important;
+}
+
+.fs19 {
+    font-size: 19px !important;
+}
+
+.fs195 {
+    font-size: 19.5px !important;
+}
+
+.fs20 {
+    font-size: 20px !important;
+}
+
+.fs205 {
+    font-size: 20.5px !important;
+}
+
+.fs21 {
+    font-size: 21px !important;
+}
+
+.fs215 {
+    font-size: 21.5px !important;
+}
+
+.fs22 {
+    font-size: 22px !important;
+}
+
+.fs225 {
+    font-size: 22.5px !important;
+}
+
+.fs23 {
+    font-size: 23px !important;
+}
+
+.fs235 {
+    font-size: 23.5px !important;
+}
+
+.fs24 {
+    font-size: 24px !important;
+}
+
+.fs245 {
+    font-size: 24.5px !important;
+}
+
+.fs25 {
+    font-size: 25px !important;
+}
+
+.fs255 {
+    font-size: 25.5px !important;
+}
+
+.fs26 {
+    font-size: 26px !important;
+}
+
+.fs265 {
+    font-size: 26.5px !important;
+}
+
+.fs27 {
+    font-size: 27px !important;
+}
+
+.fs275 {
+    font-size: 27.5px !important;
+}
+
+.fs28 {
+    font-size: 28px !important;
+}
+
+.fs285 {
+    font-size: 28.5px !important;
+}
+
+.fs29 {
+    font-size: 29px !important;
+}
+
+.fs295 {
+    font-size: 29.5px !important;
+}
+
+.fs30 {
+    font-size: 30px !important;
+}
+
+.fs305 {
+    font-size: 30.5px !important;
+}
+
+.fs31 {
+    font-size: 31px !important;
+}
+
+.fs315 {
+    font-size: 31.5px !important;
+}
+
+.fs32 {
+    font-size: 32px !important;
+}
+
+.fs325 {
+    font-size: 32px !important;
+}
+
+.fs33 {
+    font-size: 32px !important;
+}
+
+.fs335 {
+    font-size: 32px !important;
+}
+
+.fs34 {
+    font-size: 32px !important;
+}
+
+.fs345 {
+    font-size: 32px !important;
+}
+
+.fs35 {
+    font-size: 32px !important;
+}
+
+.fs355 {
+    font-size: 32px !important;
+}
+
+.fs36 {
+    font-size: 32px !important;
+}
+
+.fs365 {
+    font-size: 32px !important;
+}
+
+.fs37 {
+    font-size: 32px !important;
+}
+
+.fs375 {
+    font-size: 32px !important;
+}
+
+.fs38 {
+    font-size: 32px !important;
+}
+
+.fs385 {
+    font-size: 32px !important;
+}
+
+.fs39 {
+    font-size: 32px !important;
+}
+
+.fs395 {
+    font-size: 32px !important;
+}
+
+.fs40 {
+    font-size: 32px !important;
+}
+
+
+/* Font weight application between 200 and 700. */
+.fw200 {
+    font-weight: 200 !important;
+}
+
+.fw300 {
+    font-weight: 300 !important;
+}
+
+.fw400 {
+    font-weight: 400 !important;
+}
+
+.fw500 {
+    font-weight: 500 !important;
+}
+
+.fw600 {
+    font-weight: 600 !important;
+}
+
+.fw700 {
+    font-weight: 700 !important;
+}
+
+
+/* ||| BORDERS - General border stylings for the IAPP Resource Center. - BORDERS ||| */
+
+/* Border Radius Styling - Apply radius/corner stylings to elements */
+
+.br1 {
+    border-radius: 1px;
+}
+
+.br2 {
+    border-radius: 2px;
+}
+
+.br3 {
+    border-radius: 3px;
+}
+
+.br4 {
+    border-radius: 4px;
+}
+
+.br5 {
+    border-radius: 5px;
+}
+
+.br6 {
+    border-radius: 6px;
+}
+
+.br7 {
+    border-radius: 7px;
+}
+
+.br8 {
+    border-radius: 8px;
+}
+
+.br9 {
+    border-radius: 9px;
+}
+
+.br10 {
+    border-radius: 10px;
+}
+
+.br11 {
+    border-radius: 11px;
+}
+
+.br12 {
+    border-radius: 12px;
+}
+
+.br13 {
+    border-radius: 13px;
+}
+
+.br14 {
+    border-radius: 14px;
+}
+
+.br15 {
+    border-radius: 15px;
+}
